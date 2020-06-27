@@ -1,6 +1,5 @@
 # uzycie
-# python text_recognition.py --east frozen_east_text_detection.pb --image zdjecia/costam.jpg
-
+# python3 text_detection_video.py --video mass.mp4 --east frozen_east_text_detection.pb
 
 # import paczek
 from imutils.video import VideoStream
